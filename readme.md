@@ -1,6 +1,7 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="Tic-Tac-Toe Screenshot" width="400">
+
 
 ## Description
 
